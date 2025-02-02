@@ -23,7 +23,7 @@ The [Categorize Files.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/
 
 4. Copy and paste the content from [appsscript.json](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/appsscript.json) to the one in your project and save.
 
-5. Copy and paste the code from [Move Root Files to Inbox.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Move Root Files to Inbox.gs) and [Categorize Files.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Categorize Files.gs) to your project and save.
+5. Copy and paste the code from [Move Root Files to Inbox.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Move%20Root%20Files%20to%20Inbox.gs) and [Categorize Files.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Categorize%20Files.gs) to your project and save.
 
 6. Setup the `Categorize Files.gs` following the instruction inside the file. If you wish to automatically move stuff from root to a specific folder, setup the other `.gs` file as well. 
 
