@@ -9,9 +9,9 @@ All you need is a browser and an Google account in order to use this script to c
 
 Are you tired of new files kept showing up at the root of your Google Drive? Are you tired of having to manually place your files into a specific folder? This is for you.
 
-The [Move Root Files to Inbox.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Move Root Files to Inbox.gs) contain a script to move all the files in the root folder to a specific folder of your choice. You can set a trigger to run this every hour to keep your drive clean.
+The [Move Root Files to Inbox.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Move%20Root%20Files%20to%20Inbox.gs) contain a script to move all the files in the root folder to a specific folder of your choice. You can set a trigger to run this every hour to keep your drive clean.
 
-The [Categorize Files.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Categorize Files.gs) contain a script to move/categorize all the flies in the root or another folder to other folders. For example, you can tell it to move anything whose filename start with "Classwork_" to a folder name Classwork.
+The [Categorize Files.gs](https://github.com/FlysonBot/GAS-CategorizeFiles/blob/main/Categorize%20Files.gs) contain a script to move/categorize all the flies in the root or another folder to other folders. For example, you can tell it to move anything whose filename start with "Classwork_" to a folder name Classwork.
 
 # How to use?
 
